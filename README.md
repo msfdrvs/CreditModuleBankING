@@ -46,3 +46,6 @@ curl --location 'localhost:8080/loan-capability/pay-loan' \
     "loanId": 1,
     "amount": 40000
 }'
+
+## Cold Start:
+Since Spring boot comes with integrated Tomcat server building maven dependency is enough for running project. mvn -clean -install command will download and build dependent packages. 
