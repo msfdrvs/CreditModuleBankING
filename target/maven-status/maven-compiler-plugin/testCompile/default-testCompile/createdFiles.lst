@@ -1,0 +1,10 @@
+com\mustafa\ing\service\LoanInstallmentUpdateServiceTest.class
+com\mustafa\ing\CreditModuleApplicationTests.class
+com\mustafa\ing\service\CustomerQueryServiceTest.class
+com\mustafa\ing\service\CustomerUpdateServiceTest.class
+com\mustafa\ing\service\LoanQueryServiceTest.class
+com\mustafa\ing\service\LoanCapabilityServiceTest.class
+com\mustafa\ing\service\LoanUpdateServiceTest.class
+com\mustafa\ing\service\LoanInstallmentsQueryServiceTest.class
+com\mustafa\ing\service\LoanCreateServiceTest.class
+com\mustafa\ing\service\LoanInstallmentCreateServiceTest.class
